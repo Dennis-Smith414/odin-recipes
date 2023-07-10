@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(255, 204, 102);
+}
+
+.main-heading {
+    text-align: center;
+    color: black;
+    font-size: 75px;
+    font-weight: bold;
+}
+
+.heading {
+    color: black;
+    font-size: 40px;
+    font-weight: bold;   
+}
